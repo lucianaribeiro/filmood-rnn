@@ -8,7 +8,7 @@
 
 
 ## Como contribuir?
-
+Para contruibuir com o projeto basta acessar o nosso [**Guia de Contribuição**](https://github.com/lucianaribeiro/filmood/blob/master/CONTRIBUTING.md) e seguir o passo a passo.
 
 ## A Equipe
 

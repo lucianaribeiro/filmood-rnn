@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Bug report
-about: Template de bugs
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **Descreva o Bug**
 // escreva aqui
 

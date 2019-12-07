@@ -1,1 +1,0 @@
-## Recursos necessários

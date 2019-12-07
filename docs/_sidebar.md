@@ -3,8 +3,6 @@
 * [**A Ideia**](/ideia/ "A Ideia do Projeto")
 
 * [**Equipe**](/equipe/ "Equipe")
-* * [Regras de Conduta](equipe/regrasConduta.md "Regras")
-* * [Talentos](equipe/talentos.md "Do você precisa?")
 
 * [**Planejamento**](/planejamento/ "Planejamento")
 * * [Tarefas](planejamento/tarefas.md "Tarefas")

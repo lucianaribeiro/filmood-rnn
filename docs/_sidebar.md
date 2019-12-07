@@ -1,7 +1,7 @@
 
 * [Home](/ "Filmood")
 * [**A Ideia**](/ideia/ "A Ideia do Projeto")
-* * [O Problema](ideia/problema.md "O Problema")
+* * [O Contexto](ideia/problema.md "O Contexto")
 * * [A Solução](ideia/solucao.md "A Solução")
 * * [Benefícios](ideia/beneficios.md "Benefícios Gerados")
 

@@ -1,1 +1,0 @@
-## Qual solução você propõe?

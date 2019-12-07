@@ -16,7 +16,7 @@ A entrada X é um pedaço de texto e a saída Y é o sentimento que queremos pre
 
 <img src="_media/review.png"
      alt="Review"
-     style="float: left; margin-right: 70px;" />
+     style="float: left; margin-right: 70px; margin-bottom: 50px" />
 
 
 
@@ -41,7 +41,7 @@ As RNNs são chamadas de recorrentes porque executam a mesma tarefa para cada el
 
 <img src="_media/lstm.png"
      alt="LSTM"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; margin-bottom: 50px" />
 
 
 As redes de memória de longo prazo - geralmente chamadas de “LSTMs” - são um tipo especial de RNN, capaz de aprender dependências de longo prazo. Os LSTMs não possuem uma arquitetura fundamentalmente diferente das RNNs, mas incorporam componentes adicionais.

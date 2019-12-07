@@ -9,9 +9,19 @@ As tarefas foram distribuídas e disponibilizadas no Github do projeto e podem s
 
 <img src="_media/issue.png"
      alt="Issues do Projeto"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; margin-bottom: 50px" />
+
 
 ## Ferramentas
+
+- Telegram
+- Hangouts
+- Github
+- Zenhub 
+- Jupyter Notebook
+- Google Colab
+- Python 3
+
 
 ## Riscos
 Alguns riscos pertinentes à execução do projeto foram mapeados e foram definidas algumas ações para mitigá-los e diminuir o impacto de ocorrência de algum deles no desenvolvimento do projeto. 
@@ -28,6 +38,86 @@ Alguns riscos pertinentes à execução do projeto foram mapeados e foram defini
 
 
 ## Cronograma 
+
+<table style="width:100%">
+  <tr>
+    <th>#</th>
+    <th>Issue</th>
+    <th>Milestone</th>
+    <th>Responsável</th>
+    <th>Período</th>
+  </tr>
+  <tr>
+    <td>#1</td>
+    <td>Início do projeto</td>
+    <td>Sprint 1</td>
+    <td>Indiara e Luciana</td>
+    <td>13/11/2019</td>
+  </tr>
+  <tr>
+    <td>#2</td>
+    <td><a href="https://github.com/lucianaribeiro/filmood/issues/3">Define project theme</a></td>
+    <td>Sprint 1</td>
+    <td>Indiara e Luciana</td>
+    <td>13/11/2019 - 20/11/2019</td>
+  </tr>
+  <tr>
+     <td>#3</td>
+     <td><a href="https://github.com/lucianaribeiro/filmood/issues/4">Define neural network architecture</a></td>
+     <td>Sprint 1</td>
+     <td>Indiara e Luciana</td>
+     <td>13/11/2019 - 20/11/2019</td>
+   </tr>
+   <tr>
+    <td>#4</td>
+    <td><a href="https://github.com/lucianaribeiro/filmood/issues/5">Build the wiki in docsify</a></td>
+    <td>Sprint 1</td>
+    <td>Indiara e Luciana</td>
+    <td>13/11/2019 - 20/11/2019</td>
+  </tr>
+  <tr>
+    <td>#5</td>
+    <td><a href="https://github.com/lucianaribeiro/filmood/issues/9">Organize repository according to open source projects</a></td>
+    <td>Sprint 1</td>
+    <td>Luciana</td>
+    <td>13/11/2019 - 20/11/2019</td>
+  </tr>
+  <tr>
+    <td>#6</td>
+    <td><a href="https://github.com/lucianaribeiro/filmood/issues/6">Document on wiki the part of project idea</a></td>
+    <td>Sprint 2</td>
+    <td>Indiara e Luciana</td>
+    <td>21/11/2019 - 27/11/2019</td>
+  </tr>
+   <tr>
+    <td>#7</td>
+    <td><a href="https://github.com/lucianaribeiro/filmood/issues/7">Document the project team part on the wiki</a></td>
+    <td>Sprint 2</td>
+    <td>Indiara e Luciana</td>
+    <td>21/11/2019 - 27/11/2019</td>
+  </tr>
+   <tr>
+    <td>#8</td>
+    <td><a href="https://github.com/lucianaribeiro/filmood/issues/8">Document on wiki the planning part of project</a></td>
+    <td>Sprint 2</td>
+    <td>Indiara e Luciana</td>
+    <td>21/11/2019 - 27/11/2019</td>
+  </tr>
+   <tr>
+    <td>#9</td>
+    <td><a href="https://github.com/lucianaribeiro/filmood/issues/11">Create neura network</a></td>
+    <td>Sprint 3</td>
+    <td>Indiara e Luciana</td>
+    <td>28/11/2019 - 04/12/2019</td>
+  </tr>
+  <tr>
+    <td>#10</td>
+    <td>Entrega final do projeto</td>
+    <td>Sprint 3</td>
+    <td>Indiara e Luciana</td>
+    <td>07/12/2019</td>
+  </tr>
+</table>
 
 ## Membros/Stalkeholders
 O time é composto por duas pessoas, além de haver o professor como stakeholder:

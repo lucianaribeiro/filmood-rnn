@@ -1,6 +1,5 @@
 
-* [Home](/ "Filmood")
-* [**A Ideia**](/ideia/ "A Ideia do Projeto")
+* [**A Ideia**](/ideia/ "Filmood")
 
 * [**Equipe**](/equipe/ "Equipe")
 

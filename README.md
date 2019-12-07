@@ -12,7 +12,15 @@ You can take a look at our wiki project to know more about it [here](https://luc
 
 
 ## How to contribute?
-to constribute to the project just access out [**Contribution Guide**](https://github.com/lucianaribeiro/filmood/blob/master/CONTRIBUTING.md) and follow the steps.
+To constribute to the project just access out [**Contribution Guide**](https://github.com/lucianaribeiro/filmood/blob/master/CONTRIBUTING.md) and follow the steps.
+
+## How to run the project?
+To run the project, follow the next steps:
+
+1. Clone the repository
+2. Install Jupyter Notebook 
+3. Create a virtualenv using python3
+4. Run the Jupyter Notebook file 
 
 
 ## Tools
